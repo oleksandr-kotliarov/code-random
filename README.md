@@ -20,7 +20,7 @@
 ## Usage/Examples
 
 ```javascript
-import getRandomCode from 'code-random'
+const getRandomCode = require('code-random');
 
 const lettersCode = getRandomCode(6, { letters: true }); // arovup
 
