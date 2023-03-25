@@ -1,5 +1,5 @@
 {
-  "name": "random-code",
+  "name": "code-random",
   "version": "1.0.0",
   "description": "Generate a random code",
   "main": "src/main.ts",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oleksandr-kotliarov/random-code.git"
+    "url": "git+https://github.com/oleksandr-kotliarov/code-random.git"
   },
   "keywords": [
     "code",
@@ -20,9 +20,9 @@
   "author": "Oleksandr Kotliarov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oleksandr-kotliarov/random-code/issues"
+    "url": "https://github.com/oleksandr-kotliarov/code-random/issues"
   },
-  "homepage": "https://github.com/oleksandr-kotliarov/random-code#readme",
+  "homepage": "https://github.com/oleksandr-kotliarov/code-random#readme",
   "devDependencies": {
     "@jest/globals": "^29.5.0",
     "@types/jest": "^29.5.0",

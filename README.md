@@ -10,17 +10,17 @@
 
 ### npm
 ```bash
-  npm install random-code
+  npm install code-random
 ```
 ### yarn
 ```bash
-  yarn add random-code
+  yarn add code-random
 ```
     
 ## Usage/Examples
 
 ```javascript
-import getRandomCode from 'random-code'
+import getRandomCode from 'code-random'
 
 const lettersCode = getRandomCode(6, { letters: true }); // arovup
 
