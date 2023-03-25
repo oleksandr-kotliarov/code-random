@@ -1,5 +1,5 @@
 
-# random-code
+# code-random
 
 ### Get a random text code for your needs.
 
